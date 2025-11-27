@@ -1,0 +1,8 @@
+# Python environment files
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+# Sensitive environment variables
+.env
